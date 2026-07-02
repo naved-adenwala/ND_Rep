@@ -3,6 +3,8 @@ This is good file I just love this.
 Added another file
 
 -----------------Master-Base_Another_good_Stuff
+ 
+Rebasing
 
 Now looks good
 I am your boss so this will be my line.
